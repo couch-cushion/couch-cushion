@@ -1,10 +1,12 @@
-# Hi, I'm Deepjan 👋
+# Deepjan Thapaliya
 
-**Software Engineering Master's student | Aspiring C#/.NET Developer | Software Testing & QA**
+**Junior .NET | Full-Stack Software Developer**
 
-I'm studying a Master of Information Technology (Software Engineering) at **Charles Darwin University, Australia**. I'm working toward a career in backend and full-stack software development, with testing and quality engineering as complementary strengths.
+## About Me
 
-I enjoy understanding how applications work end to end: from business requirements and database design to APIs, debugging, and reliable code.
+Master of Information Technology (Software Engineering) student with IT industry experience and hands-on development experience using C#, .NET, ASP.NET Core, Entity Framework Core, SQL, React and REST APIs.
+
+Comfortable building database-driven applications from backend logic through frontend integration, testing and deployment. Strong foundation in object-oriented programming, relational databases, debugging, Git and Docker, with a particular interest in .NET backend and full-stack development.
 
 ### What I'm working on
 
