@@ -1,6 +1,6 @@
 # Deepjan Thapaliya
 
-**Junior .NET | Full-Stack Software Developer**  
+**Software Engineer | Full-Stack Software Developer**  
 Darwin, NT, Australia
 
 ## About Me
